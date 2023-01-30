@@ -1,0 +1,20 @@
+.footer__link {
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.12;
+  color: #ffffff;
+  padding-right: 18px;
+  margin: 0;
+}
+
+@media screen and (max-width: 660px) {
+  .footer__link {
+    padding: 0;
+    margin: 0;
+    font-size: 24px;
+    line-height: 1;
+    padding-bottom: 32px;
+  }
+}
