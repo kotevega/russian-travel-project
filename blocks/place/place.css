@@ -10,6 +10,10 @@
   padding-bottom: 80px;
 }
 
+.place:last-child {
+  padding-bottom: 0;
+}
+
 @media screen and (max-width: 1025px) {
   .place {
     max-width: 928px;
@@ -19,6 +23,7 @@
 @media screen and (max-width: 870px) {
   .place {
     max-width: 720px;
+    padding-bottom: 73px;
   }
 }
 
