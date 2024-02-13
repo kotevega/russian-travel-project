@@ -4,6 +4,7 @@
 
 Ссылка на сайт https://kotevega.github.io/russian-travel-project/
 
-Проект написан на языке html и css.
+### Technology stack
+![HTML](https://github.com/kotevega/kotevega/blob/main/images/html5.svg) ![CSS](https://github.com/kotevega/kotevega/blob/main/images/css3.svg)
 
 
